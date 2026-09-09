@@ -22,6 +22,14 @@ Arduino-based embedded control system for a brushed DC motor, integrating PWM sp
 
 https://github.com/user-attachments/assets/fe71ec7c-2c89-4952-832c-5e1b58cf90ac
 
+ONGOING WORK:
+
+-Attaching hall effect and thermal sensor to record and display motor's RPM and temperature on LED screen
+
+-Automatic embedded system that maintains motor at ideal RPM and temperature without manual control/ intervention
+
+
+
 
 
 
