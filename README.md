@@ -6,6 +6,7 @@ Arduino-based embedded control system for a brushed DC motor, integrating PWM sp
 <img width="1145" height="692" alt="image" src="https://github.com/user-attachments/assets/40ad2dad-25cd-46e8-a117-5e157632004c" />
 
 CODE: 
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
